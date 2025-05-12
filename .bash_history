@@ -847,3 +847,16 @@ git push -u origin main
 git remote add origin https://github.com/yourusername/dev-tools-assignment.git
 git push -u origin main  # Or 'master' if GitHub defaulted to that
 git push -u origin main
+git init
+git remote add origin git@github.com:SteffyStef/dev-tools.git
+git add .
+git commit -m "Initial commit from EC2"
+git branch -M main
+git push -u origin main
+git remote set-url origin https://github.com/SteffyStef/dev-tools.git
+git push -u origin main
+echo ".vscode-server/" >> .gitignore
+git rm -r --cached .vscode-server
+git add .gitignore
+git commit -m "Remove .vscode-server and add to .gitignore"
+git push
