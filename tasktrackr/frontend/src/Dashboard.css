@@ -1,0 +1,67 @@
+/* Dashboard.css */
+
+.dashboard {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 250px;
+  background: #f2f2f2;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.sidebar h3 {
+  margin-top: 1rem;
+}
+
+.sidebar button {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  cursor: pointer;
+  text-align: left;
+}
+
+.sidebar .logout {
+  background: red;
+  color: white;
+  margin-top: auto;
+}
+
+.main {
+  flex: 1;
+  padding: 2rem;
+}
+
+.task {
+  background: #fafafa;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.task.completed {
+  opacity: 0.6;
+  text-decoration: line-through;
+}
+
+.task.due-soon {
+  border-color: orange;
+}
+
+.task .delete {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: crimson;
+  color: white;
+  border: none;
+  padding: 0.3rem 0.5rem;
+  cursor: pointer;
+}
+

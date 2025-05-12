@@ -1,0 +1,104 @@
+2025-05-08 19:56:21.368 [info] 
+
+
+
+
+2025-05-08 19:56:21.368 [info] Extension host agent started.
+2025-05-08 19:56:21.430 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2025-05-08 19:56:21.491 [info] [<unknown>][807ceff0][ManagementConnection] New connection established.
+2025-05-08 19:56:21.495 [info] [<unknown>][548a1128][ExtensionHostConnection] New connection established.
+2025-05-08 19:56:21.510 [info] ComputeTargetPlatform: linux-x64
+2025-05-08 19:56:21.518 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2025-05-08 19:56:21.647 [info] [<unknown>][548a1128][ExtensionHostConnection] <3684> Launched Extension Host Process.
+2025-05-08 19:56:24.320 [info] ComputeTargetPlatform: linux-x64
+2025-05-08 19:56:25.171 [info] Getting Manifest... github.copilot-chat
+2025-05-08 19:56:25.172 [info] Getting Manifest... github.copilot
+2025-05-08 19:56:25.354 [info] Installing extension: github.copilot {"installPreReleaseVersion":false,"donotIncludePackAndDependencies":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.0","date":"2025-05-07T12:48:53.763Z"}}
+2025-05-08 19:56:25.361 [info] Installing the extension without checking dependencies and pack github.copilot
+2025-05-08 19:56:25.374 [info] Installing extension: github.copilot-chat {"installPreReleaseVersion":false,"donotIncludePackAndDependencies":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ubuntu/.vscode-server/extensions/extensions.json","external":"file:///home/ubuntu/.vscode-server/extensions/extensions.json","path":"/home/ubuntu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.0","date":"2025-05-07T12:48:53.763Z"}}
+2025-05-08 19:56:25.375 [info] Installing the extension without checking dependencies and pack github.copilot-chat
+2025-05-08 19:56:26.856 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateTitle (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1839)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-08 19:56:27.158 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateIcon (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1889)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-08 19:58:03.696 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 19:58:41.102 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 19:58:52.062 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 19:59:13.071 [info] [<unknown>][548a1128][ExtensionHostConnection] The client has reconnected.
+2025-05-08 19:59:16.493 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 19:59:32.865 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 19:59:53.186 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 20:04:11.042 [info] New EH opened, aborting shutdown
+2025-05-08 20:04:12.375 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 20:05:33.479 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateIcon (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1889)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-08 20:05:35.571 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/server-main.js:190:1060)
+    at process.emit (node:events:536:35)
+2025-05-08 20:05:35.754 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateTitle (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1839)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-08 20:05:35.804 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:6392)
+    at I.updateTitle (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:46:1839)
+    at s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:45:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:28:4204)
+    at ul.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:81207)
+    at ul.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80730)
+    at ps.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:80132)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2373)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:26:2591)
+    at process.x (file:///home/ubuntu/.vscode-server/cli/servers/Stable-19e0f9e681ecb8e5c09d8784acaa601316ca4571/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29911)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-05-08 20:08:09.821 [info] [<unknown>][807ceff0][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-05-08 20:08:18.454 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-08 20:16:19.519 [warning] No ptyHost heartbeat after 6 seconds

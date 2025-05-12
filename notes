@@ -1,0 +1,22 @@
+My first note
+I have a working app with a frontend and backend.
+
+Here's the frontend code:
+....
+
+....
+
+Here's the backend code:
+....
+
+....
+
+I want to.....
+
+Give me all frontend, backend and database code as complete files that I can copy and paste.
+When giving  me database code: include the USE command at the beginning.
+
+For cors, make the backend accept all requests. For the DB, use ... and the same credentials as in
+my backend code
+
+For the frontend, don't use tailwind, just use vanilla styling. For styling, ensure that the text is readable on the background..

@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": true,
+    "editor.tabCompletion": "on",
+    "editor.formatOnSave": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "remote.SSH.remotePlatform": {
+        "44.224.136.57": "linux"
+    }
+}

@@ -1,0 +1,102 @@
+2025-05-12 22:20:15.167 [info] [main] Log level: Info
+2025-05-12 22:20:15.167 [info] [main] Validating found git in: "git"
+2025-05-12 22:20:15.167 [info] [main] Using git "2.43.0" from "git"
+2025-05-12 22:20:15.167 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-12 22:20:15.167 [info] > git rev-parse --show-toplevel [75ms]
+2025-05-12 22:20:15.167 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:15.167 [info] > git rev-parse --show-toplevel [1410ms]
+2025-05-12 22:20:15.167 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:15.167 [info] > git rev-parse --show-toplevel [596ms]
+2025-05-12 22:20:15.167 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:17.269 [info] > git rev-parse --show-toplevel [148ms]
+2025-05-12 22:20:17.269 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:17.323 [info] > git rev-parse --show-toplevel [13ms]
+2025-05-12 22:20:17.323 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:17.355 [info] > git rev-parse --show-toplevel [11ms]
+2025-05-12 22:20:17.356 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:17.420 [info] > git rev-parse --show-toplevel [8ms]
+2025-05-12 22:20:17.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:17.467 [info] > git rev-parse --show-toplevel [25ms]
+2025-05-12 22:20:17.467 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:18.476 [info] > git rev-parse --show-toplevel [983ms]
+2025-05-12 22:20:18.476 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:18.499 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-12 22:20:18.499 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:18.749 [info] > git rev-parse --show-toplevel [237ms]
+2025-05-12 22:20:18.749 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:18.790 [info] > git rev-parse --show-toplevel [10ms]
+2025-05-12 22:20:18.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:19.111 [info] > git rev-parse --show-toplevel [304ms]
+2025-05-12 22:20:19.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:19.141 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-12 22:20:19.141 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:19.167 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-12 22:20:19.167 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:19.185 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-12 22:20:19.185 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:19.191 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-12 22:20:26.429 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-12 22:20:26.429 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:26.559 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-12 22:20:26.559 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:26.572 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-12 22:20:26.572 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:30.620 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-12 22:20:30.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:30.806 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-12 22:20:30.806 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:30.816 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-12 22:20:30.816 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:35.852 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-12 22:20:35.852 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:35.959 [info] > git rev-parse --show-toplevel [15ms]
+2025-05-12 22:20:35.959 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:35.997 [info] > git rev-parse --show-toplevel [15ms]
+2025-05-12 22:20:35.997 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:38.389 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-12 22:20:38.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:38.399 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-12 22:20:38.400 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:20:38.409 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-12 22:20:38.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-12 22:27:03.899 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-12 22:27:03.906 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-12 22:27:03.931 [info] [Model][openRepository] Opened repository (path): /home/ubuntu
+2025-05-12 22:27:03.931 [info] [Model][openRepository] Opened repository (real path): /home/ubuntu
+2025-05-12 22:27:03.947 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [21ms]
+2025-05-12 22:27:03.949 [info] > git config --get commit.template [3ms]
+2025-05-12 22:27:03.958 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-12 22:27:03.974 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-05-12 22:27:04.254 [info] > git status -z -uall [289ms] (cancelled)
+2025-05-12 22:27:05.461 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1210ms]
+2025-05-12 22:27:05.487 [info] > git check-ignore -v -z --stdin [5ms]
+2025-05-12 22:27:05.489 [info] > git config --get --local branch.main.vscode-merge-base [20ms]
+2025-05-12 22:27:05.489 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-12 22:27:05.646 [info] > git config --get commit.template [220ms]
+2025-05-12 22:27:05.664 [info] > git reflog main --grep-reflog=branch: Created from *. [161ms]
+2025-05-12 22:27:05.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-12 22:27:05.725 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [54ms]
+2025-05-12 22:27:05.725 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-12 22:27:05.725 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-12 22:27:05.752 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [27ms]
+2025-05-12 22:27:06.109 [info] > git status -z -uall [403ms] (cancelled)
+2025-05-12 22:27:07.785 [info] > git show --textconv :books/backend/index.js [28ms]
+2025-05-12 22:27:07.785 [info] > git show --textconv :books/frontend/src/App.jsx [18ms]
+2025-05-12 22:27:07.785 [info] > git ls-files --stage -- books/frontend/src/App.jsx [3ms]
+2025-05-12 22:27:07.792 [info] > git ls-files --stage -- books/backend/index.js [17ms]
+2025-05-12 22:27:07.813 [info] > git hash-object -t tree /dev/null [8ms]
+2025-05-12 22:27:07.813 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ubuntu/books/frontend/src/App.jsx.git?%7B%22path%22%3A%22%2Fhome%2Fubuntu%2Fbooks%2Ffrontend%2Fsrc%2FApp.jsx%22%2C%22ref%22%3A%22%22%7D
+2025-05-12 22:27:07.819 [info] > git hash-object -t tree /dev/null [20ms]
+2025-05-12 22:27:07.820 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ubuntu/books/backend/index.js.git?%7B%22path%22%3A%22%2Fhome%2Fubuntu%2Fbooks%2Fbackend%2Findex.js%22%2C%22ref%22%3A%22%22%7D
+2025-05-12 22:27:07.820 [info] > git hash-object -t tree /dev/null [28ms]
+2025-05-12 22:27:07.820 [warning] [GitFileSystemProvider][stat] File not found - git:/home/ubuntu/books/frontend/src/App.jsx.git?%7B%22path%22%3A%22%2Fhome%2Fubuntu%2Fbooks%2Ffrontend%2Fsrc%2FApp.jsx%22%2C%22ref%22%3A%22%22%7D
+2025-05-12 22:27:07.820 [info] > git hash-object -t tree /dev/null [9ms]
+2025-05-12 22:27:07.820 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/ubuntu/books/backend/index.js.git?%7B%22path%22%3A%22%2Fhome%2Fubuntu%2Fbooks%2Fbackend%2Findex.js%22%2C%22ref%22%3A%22%22%7D
+2025-05-12 22:27:08.237 [info] > git blame --root --incremental b73ac31108eaff6c393b8210a04d1807e093756b -- books/frontend/src/App.jsx [1ms]
+2025-05-12 22:27:08.239 [info] fatal: no such path books/frontend/src/App.jsx in b73ac31108eaff6c393b8210a04d1807e093756b
+2025-05-12 22:27:08.597 [info] > git config --get --local branch.main.github-pr-owner-number [202ms]
+2025-05-12 22:27:08.597 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-12 22:27:08.615 [info] > git config --get --local branch.main.remote [6ms]
+2025-05-12 22:27:08.615 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-12 22:27:08.655 [info] > git config --get --local branch.main.merge [25ms]
+2025-05-12 22:27:08.655 [warning] [Git][config] git config failed: Failed to execute git

@@ -1,0 +1,25 @@
+2025-05-09 21:36:29.099 [info] Can't use the Electron fetcher in this environment.
+2025-05-09 21:36:29.099 [info] Using the Node fetch fetcher.
+2025-05-09 21:36:29.099 [info] Initializing Git extension service.
+2025-05-09 21:36:29.099 [info] Successfully activated the vscode.git extension.
+2025-05-09 21:36:29.100 [info] Enablement state of the vscode.git extension: true.
+2025-05-09 21:36:29.100 [info] Successfully registered Git commit message provider.
+2025-05-09 21:36:30.584 [info] Logged in as StefaniS82
+2025-05-09 21:36:31.517 [info] Got Copilot token for StefaniS82
+2025-05-09 21:36:32.775 [info] Fetched model metadata in 1247ms 84f84dd7-511b-4850-b05d-041a8dba8602
+2025-05-09 21:36:32.814 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-09 21:36:32.814 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-09 21:36:32.833 [info] Registering default platform agent...
+2025-05-09 21:36:33.123 [info] activationBlocker from 'languageModelAccess' took for 4134ms
+2025-05-09 21:36:33.193 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-09 21:51:37.150 [info] Fetched model metadata in 663ms 203f3573-8c8f-4fa8-8f58-4f9b447f6b62
+2025-05-09 22:06:37.794 [info] Logged in as StefaniS82
+2025-05-09 22:06:38.505 [info] Got Copilot token for StefaniS82
+2025-05-09 22:06:39.175 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-09 22:06:39.239 [info] Fetched model metadata in 726ms edce82a7-5289-4be6-9222-08a6da35f94b
+2025-05-09 22:06:39.301 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-09 22:21:40.348 [info] Fetched model metadata in 597ms 47c48b5b-2de9-479e-9746-40486c7dbe9b
+2025-05-09 22:36:41.894 [info] Logged in as StefaniS82
+2025-05-09 22:36:42.655 [info] Got Copilot token for StefaniS82
+2025-05-09 22:36:43.353 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-09 22:36:43.475 [info] BYOK: Copilot Chat known models list fetched successfully.

@@ -1,0 +1,17 @@
+2025-05-12 22:29:52.572 [info] Can't use the Electron fetcher in this environment.
+2025-05-12 22:29:52.572 [info] Using the Node fetch fetcher.
+2025-05-12 22:29:52.572 [info] Initializing Git extension service.
+2025-05-12 22:29:52.572 [info] Successfully activated the vscode.git extension.
+2025-05-12 22:29:52.572 [info] Enablement state of the vscode.git extension: true.
+2025-05-12 22:29:52.572 [info] Successfully registered Git commit message provider.
+2025-05-12 22:29:53.911 [info] Logged in as StefaniS82
+2025-05-12 22:29:54.763 [info] Got Copilot token for StefaniS82
+2025-05-12 22:29:55.432 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-12 22:29:55.448 [info] Registering default platform agent...
+2025-05-12 22:29:55.791 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2025-05-12 22:29:55.791 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2025-05-12 22:29:55.791 [info] Successfully registered GitHub PR title and description provider.
+2025-05-12 22:29:55.791 [info] Successfully registered GitHub PR reviewer comments provider.
+2025-05-12 22:29:55.796 [info] Fetched model metadata in 1024ms 81f121fd-450f-4d08-bf16-ef9d6b9ce55c
+2025-05-12 22:29:55.800 [info] activationBlocker from 'languageModelAccess' took for 3191ms
+2025-05-12 22:29:55.870 [info] BYOK: Copilot Chat known models list fetched successfully.
