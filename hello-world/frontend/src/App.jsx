@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <h1>Hello World App!</h1>
+      <h1>Hello To Everyone In The World!</h1>
       <p>{msg}</p>
     </div>
   );

@@ -860,3 +860,41 @@ git rm -r --cached .vscode-server
 git add .gitignore
 git commit -m "Remove .vscode-server and add to .gitignore"
 git push
+ls ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "runtsaquarius@gmail.com
+
+ssh-keygen -t rsa -b 4096 -C "runtsaquarius@gmail.com"
+git remote set-url origin git@github.com:SteffyStef/your-repo.git
+git remote -v
+git add .
+git commit -m "Test push using SSH"
+git push
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ssh -T git@github.com
+cat ~/.ssh/id_rsa.pub
+git remote -v
+git push
+ls ~/.ssh
+cat ~/.ssh/id_rsa.pub
+git remote -v
+git add .
+git commit -m "Test push using SSH"
+git push
+git remote set-url origin git@github.com:SteffyStef/dev-tools.git
+git push
+rm .ssh/id_rsa
+rm .ssh/id_rsa.pub
+git rm --cached .ssh/id_rsa
+git rm --cached .ssh/id_rsa.pub
+echo ".ssh/" >> .gitignore
+git add .gitignore
+git commit -m "Remove private key and add .gitignore"
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch .ssh/id_rsa .ssh/id_rsa.pub' --prune-empty --tag-name-filter cat -- --all
+git push origin main --force
+ssh-keygen -t rsa -b 4096 -C "snsteph82@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+git push origin main --force
